@@ -13,3 +13,28 @@ html{
     align-items: center;
     margin-top: 25%;
 }
+.social {
+    width: 100vw;
+    margin-bottom: 0;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+    background-color: whitesmoke;
+    align-items: center;
+    text-align: center;
+    flex-shrink: 0;
+}
+a{
+    padding: 10px;
+    padding-bottom: 15px;
+    text-align: center;
+    vertical-align: middle;
+    text-decoration: none;
+    color: black;
+}
